@@ -2,6 +2,8 @@
 
 A C program that analyzes English words and discovers linguistic relationships including subwords, verb conjugations, lexical proximity, and anagrams.
 
+<img width="1473" height="775" alt="image" src="https://github.com/user-attachments/assets/32c9285b-7494-4ec1-989c-fe2c365abb98" />
+
 ---
 
 ## Features
