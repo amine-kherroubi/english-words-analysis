@@ -15,6 +15,12 @@ A C program that analyzes English words and discovers linguistic relationships i
 
 ---
 
+## Limitations
+
+Many features and rules are hardcoded; this is not an NLP project.
+
+---
+
 ## Quick Start
 
 ### Build
